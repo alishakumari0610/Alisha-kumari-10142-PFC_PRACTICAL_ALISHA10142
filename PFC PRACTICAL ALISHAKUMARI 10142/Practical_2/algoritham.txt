@@ -1,0 +1,8 @@
+Algorithm to add two numbers:
+
+1. Start
+2. Declare variables a, b, sum
+3. Input values of a and b
+4. Calculate sum = a + b
+5. Display sum
+6. Stop

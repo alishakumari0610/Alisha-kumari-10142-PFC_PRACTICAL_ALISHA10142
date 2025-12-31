@@ -1,0 +1,7 @@
+Compile Time Error:
+Errors detected during compilation.
+Example: missing semicolon, syntax error.
+
+Run Time Error:
+Errors occurring while program is running.
+Example: division by zero.

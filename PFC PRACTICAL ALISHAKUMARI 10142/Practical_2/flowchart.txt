@@ -1,0 +1,9 @@
+Start
+  ↓
+Input a, b
+  ↓
+sum = a + b
+  ↓
+Print sum
+  ↓
+End
